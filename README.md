@@ -19,7 +19,7 @@ The project's idea is to develop a software tool that can analyze network traffi
 - **2 Detect three known network threats**
 - **3 Detect any malicious files or malware via virus total service**
 - **4 Reporting the results**
-- 
+  
 ## Installation & Testing
 
 To install and run PCAPs ANALYZER, follow these steps:
