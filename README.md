@@ -29,3 +29,5 @@ git clone https://github.com/cce15/PcapAnalizer
 cd PcapAnalizer
 pip install -r requirments.txt
 python main.py testing_files\icmp_flood.pcap
+```
+* Note: Don't forget to edit \detectors\malwares_detector.py and put your virustotal api key  
